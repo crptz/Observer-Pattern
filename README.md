@@ -14,3 +14,6 @@ The main scope here is that when I click a button only from the Subject JFrame, 
 
 **2. Now here is a gif of the result**
 ![observerPattern](https://user-images.githubusercontent.com/77761282/116611369-f5182980-a93e-11eb-936a-97d41d7fd286.gif)
+
+
+***Also, don't forget that when you click a button from the Observer JFrames nothing must happen the other JFrames. This is the whole idea of the Observer-Pattern***
